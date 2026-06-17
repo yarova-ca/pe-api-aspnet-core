@@ -1,0 +1,11 @@
+# .gitignore
+
+.env
+.env.local
+.env.*.local
+bin/
+obj/
+out/
+TestResults/
+*.user
+.vs/
